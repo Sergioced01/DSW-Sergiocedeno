@@ -1,0 +1,105 @@
+header{
+background-color: #D5D5D5;
+}
+nav{
+    background-color:#091353 ;
+    color: #B2F9FC;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-style: solid;
+    border-color: rgb(17, 8, 8);
+   
+}
+
+section{
+background-color: #091353;
+grid-column: 1/4;
+margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding: 40px;
+    border-radius: 5px;
+    border-style: double;
+    color: brown;
+   
+}
+aside{
+background-color: rgb(77, 52, 167);
+grid-column: 4/5;
+border-radius: 5px;
+border-style: solid;
+color: rgb(226, 204, 204);
+
+}
+footer{
+background-color: #D5D5D5;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+body{
+    background-color: #B2F9FC;
+}
+
+
+p{
+    color: #B2F9FC;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.pie{
+    color: #091353;
+}
+
+
+.cuadro2{
+    
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    border-color: rgb(217, 217, 231);
+    
+   
+}
+
+.desc{
+    color: #B2F9FC;
+}
+.letraima{
+ 
+    padding: 10px;
+   
+    text-align: justify;
+}
+
+h1{
+    text-align: center; 
+    font-size: 40px;
+    text-shadow: 2px 2px;
+    color: #B2F9FC;
+}
+
+.Tituvideo{
+    text-align: center; 
+    font-size: 30px;
+    text-shadow: 2px 2px;
+    color: #B2F9FC;
+}
+h2{
+    text-align: center; 
+    font-size: 30px;
+    text-shadow: 2px 2px;
+    color: #B2F9FC;
+}
+.audio{
+    border-style: solid;
+   
+    border-color: rgb(217, 217, 231);
+    border-radius: 5px;
+}

@@ -1,0 +1,35 @@
+.TituloPrincipal{
+    text-align: center; 
+    font-size: 40px;
+    color: #B2F9FC;
+    padding: auto;
+    margin-top: 10px;
+}
+
+.autor{
+    text-align: center; 
+    font-size: 15px;
+    color: #B2F9FC;
+    padding: auto;
+    margin-top: 10px;
+}
+
+body{
+    background-image: url(imagenes/pintura.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center; 
+    font-size: 40px;
+    
+    color: #082829;
+}
+
+h2{
+    text-align: center; 
+    font-size: 30px;
+  
+    color: #082829;
+}
